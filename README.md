@@ -12,6 +12,6 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Willixz13)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/daniilshk)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/danials_shk//)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=W..)
+![GitHub metrics](https://metrics.lecoq.io/Willixz13)  
 
 ![Profile views](https://gpvc.arturio.dev/Willixz13)
