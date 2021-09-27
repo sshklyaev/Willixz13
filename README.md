@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, my name is Daniil
+#### I`m a Front-End JavaScript developers and students on faculty of Programming
+*I am 17 years old, I am studying to become a programmer in college. I live in Russia, the city of St. Petersburg*.
+**I am studying: JS / HTML / Node.js / React**
 
-<!--
-**Willixz13/Willixz13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-🌱 I’m currently learning: Выразительный JavaScript. Современное веб-программирование. 3-е издание Марейн Хавербеке
+- ⚡ Novice programmer on JS
+-  🔭 Motivated for good training
+-  💬 I'm studying on resource: [Rs School](https://rs.school/)
+- ***I live here and now!***
+### 📫My social network📫
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Willixz13)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/daniilshk)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/danials_shk//)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=W..)
+
+![Profile views](https://gpvc.arturio.dev/Willixz13)
